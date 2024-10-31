@@ -186,6 +186,7 @@ function animate() {
     });
 
     controls.update();
-    composer.render(); 
+    composer.render();
+}
 
 animate();
